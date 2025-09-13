@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amirhossein Malekipour  
+# Hi, I’m Amirhossein Malekipour  
 
 🚀 **Full-Stack Web Developer** | React, Next.js, Node.js, Python  
 💡 Enthusiastic about **AI/ML** and exploring **DevOps** practices  
